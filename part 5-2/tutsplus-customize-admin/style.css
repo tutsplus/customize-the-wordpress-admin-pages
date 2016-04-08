@@ -1,0 +1,12 @@
+/*
+Theme Name:     Tutsplus Content Management Theme
+Theme URI:      http://tutsplus.com
+Description:    Theme used during tutsplus course on cusotmizing the WordPress admin for content manegment. Adds action hooks to twenty sixteen (for which it is a child) to allow the output of content.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentysixteen
+Version:        5.2
+*/
+
+@import url("../twentysixteen/style.css");
+
