@@ -1,4 +1,4 @@
-# [Customize the WordPress Admin Pages for Better Content Management][published url]
+# [Customize the WordPress Admin Pages][published url]
 ## Instructor: [Rachel McCollin][instructor url]
 
 
@@ -14,9 +14,9 @@ This repository contains the source code for the course project. There is a fold
 
 ------
 
-These are source files for the Tuts+ course: [Customize the WordPress Admin Pages for Better Content Management][published url]
+These are source files for the Tuts+ course: [Customize the WordPress Admin Pages][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/customize-the-wordpress-admin-pages-for-better-content-management
+[published url]: https://code.tutsplus.com/courses/customize-the-wordpress-admin-pages
 [instructor url]: https://tutsplus.com/authors/rachel-mccollin
